@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @snakem982
 - 👀 I’m interested in go java vue
 - 🌱 I’m currently learning swift
-- 📫 How to reach me? You can email to snakem982@12131618.xyz
 - 😄 My blog https://snakem982.12131618.xyz
   
 <!---
